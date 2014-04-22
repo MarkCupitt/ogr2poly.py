@@ -1,5 +1,4 @@
 
-
 ogr2poly.py
 ===========
 
@@ -22,7 +21,10 @@ options:
 -b --buffer-distance Set buffer distance in meters (default: 0).
 -s --simplify-distance Set simplify tolerance in meters (default: 0).
 -f --field-name Field name to use to name files. (Field name in source file I presume)
--v --verbose Print detailed status messages.
+-v --verbose true/false Print detailed status messages.
+
+[layer] layer=0 layer number in datasource to use (default=0)
+
 ```
 
 ------
