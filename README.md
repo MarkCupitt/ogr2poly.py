@@ -1,8 +1,7 @@
-
 ogr2poly.py
 ===========
 
-Original forked form https://gist.github.com/joshdoe/1434632
+Original forked fr0m https://gist.github.com/joshdoe/1434632
 
 Later version found in svn at http://trac.openstreetmap.org/browser/applications/utils/osm-extract/polygons/ogr2poly.py
 
@@ -10,6 +9,11 @@ Later version found in svn at http://trac.openstreetmap.org/browser/applications
 Files just bein stored here as we don't use svn
 
 Author is https://gist.github.com/joshdoe/1434632
+
+-----
+
+Converts any of the GDAL OGR Vector Formats to an OSM Poly File.
+See http://www.gdal.org/ogr/ogr_formats.html
 
 -----
 
